@@ -14,7 +14,7 @@
 ```npm run build``` (generate production bundle)
 
 ## Notes
-I’m using STRV eslint rules (for now), feel free to replace them. Stylus is setup as default CSS preprocessor. For presentation purposes Roboto Mono font is included.
-<!--
+I’m using custom eslint rules, feel free to replace them. Stylus is set up as default CSS preprocessor. For presentation purposes Roboto Mono font is included.
+
 ## Demo
-[Site](https://www.rosenbergmartin.net) -->
+[Site](https://www.rosenbergmartin.net)
